@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Sansung Galaxy",
+    "price": 158000,
+    "thumbnail": "url"
+  },
+  {
+    "id": 2,
+    "title": "Camara Nikkon",
+    "price": 250000,
+    "thumbnail": "url"
+  },
+  {
+    "id": 3,
+    "title": "Playstation 5",
+    "price": 280000,
+    "thumbnail": "url"
+  }
+]
